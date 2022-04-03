@@ -21,6 +21,8 @@ req = [
     "qpsolvers",
     "rtb-data",
     "progress",
+    "sympy",
+
 ]
 
 collision_req = ["pybullet"]
